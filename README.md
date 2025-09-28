@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="./banner.png" alt="Banner Fatima Steingart" width="900">
+  <img src="./banner.png" alt="Banner Fatima Steingart" height="250">
 </p>
+
 
 #  Hi there, I'm Fatima / Hola, soy Fatima
 
