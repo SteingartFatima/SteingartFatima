@@ -23,6 +23,13 @@
 > Exploratory data analysis with reproducible reports and clear visuals.  
 
 ---
+## 📊 GitHub Stats
+![Fatima's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SteingartFatima&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SteingartFatima&layout=compact&theme=radical)
+
+---
+
 
 ## 📫 Connect with me / Conectemos
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatima-candela-nis-44a3a6302)
