@@ -1,16 +1,30 @@
-## Hi there 👋
+#  Hi there, I'm Fatima / Hola, soy Fatima
 
-<!--
-**SteingartFatima/SteingartFatima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Advanced Telecommunications Engineering student | Focused on Data Science & Embedded Systems**
+---
 
-Here are some ideas to get you started:
+## 🚀 What I'm working on / En qué estoy trabajando
+- 📈 **Data Science**: EDA, visualization, and classical models (scikit-learn).  
+- 🔌 **Telecom & Embedded Systems**: FPGA (VHDL), microcontrollers (AVR/Arduino), industrial protocols (OPC UA).    
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧰 Tech Stack
+**Languages / Lenguajes:** Python · C/ASM (AVR) · VHDL · SQL · HTML/CSS/JS  
+**Data/ML:** Pandas · Numpy · Scikit-Learn · Matplotlib · Plotly  
+**Embedded / Embebidos:** Quartus · Proteus · Arduino IDE · Microchip Studio  
+**DevOps:** Git · GitHub Actions · Docker (basic / básico)  
+
+---
+
+## 📌 Featured Projects / Proyectos Destacados (IN PROGRESS/EN PROCESO)  
+
+🔹 **Netflix EDA** · Python, Pandas, Visualization  
+> Exploratory data analysis with reproducible reports and clear visuals.  
+
+---
+
+## 📫 Connect with me / Conectemos
+[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatima-candela-nis-44a3a6302)
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:fatimacandelanis@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/SteingartFatima)
