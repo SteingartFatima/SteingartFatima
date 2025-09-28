@@ -1,3 +1,5 @@
+![Banner](./banner.png)
+
 #  Hi there, I'm Fatima / Hola, soy Fatima
 
 🎓 **Advanced Telecommunications Engineering student | Focused on Data Science & Embedded Systems**
