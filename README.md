@@ -1,5 +1,6 @@
-![Banner](./banner.png)
-
+<p align="center">
+  <img src="./assets/banner.png" alt="Banner Fatima Steingart" width="900">
+</p>
 #  Hi there, I'm Fatima / Hola, soy Fatima
 
 🎓 **Advanced Telecommunications Engineering student | Focused on Data Science & Embedded Systems**
