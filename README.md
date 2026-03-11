@@ -1,4 +1,4 @@
-# Hi there, I'm Fatima 👋
+# Hi there, I'm Fatima 
 
 🎓 Advanced Telecommunications Engineering Student  
  Focused on Signal Processing, Data Science and Embedded Systems
