@@ -1,10 +1,38 @@
+# Hi there, I'm Fatima 👋
 
+🎓 Advanced Telecommunications Engineering Student  
+ Focused on Signal Processing, Data Science and Embedded Systems
 
-#  Hi there, I'm Fatima / Hola, soy Fatima
+I use GitHub to document projects and exercises related to my university studies in telecommunications engineering.
 
- **Advanced Telecommunications Engineering student | Focused on Data Science & Embedded Systems**
 ---
 
-##  What I'm working on / En qué estoy trabajando
--  **Data Science**: EDA, visualization, and classical models (scikit-learn).  
--  **Telecom & Embedded Systems**: FPGA (VHDL), microcontrollers (AVR/Arduino), industrial protocols (OPC UA).    
+## Areas of interest
+
+• Digital Signal Processing  
+• Telecommunications Systems  
+• Data Analysis with Python  
+• Embedded Systems and Microcontrollers  
+• Industrial communication protocols  
+
+---
+
+## Technologies
+
+Languages  
+• Python  
+• C / C++  
+• MATLAB / Octave  
+• VHDL  
+
+Tools  
+• Git & GitHub  
+• Jupyter Notebook  
+• VS Code  
+• Arduino IDE  
+
+---
+
+## 🌎 
+
+Argentina
